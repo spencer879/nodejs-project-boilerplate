@@ -1,0 +1,26 @@
+# EditorConfig is a standard format that helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
+
+# Top-most EditorConfig file
+root = true
+
+# Set default charset
+[*]
+charset = utf-8
+
+# Indentation settings
+[*.{js,jsx,ts,tsx,vue,json,yml,html,css,scss,sass}]
+indent_style = space
+indent_size = 2
+
+# End of line preferences
+[*.{js,jsx,ts,tsx,vue,json,yml,html,css,scss,sass}]
+end_of_line = lf
+insert_final_newline = true
+
+# Trim trailing whitespace
+[*.{js,jsx,ts,tsx,vue,json,yml,html,css,scss,sass}]
+trim_trailing_whitespace = true
+
+# Ensure consistent newlines at end of files
+[*]
+end_of_file_insert_final_newline = true

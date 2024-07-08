@@ -1,6 +1,6 @@
 # Forking Guide
 
-1. Fork this repository: https://github.com/new?template_name=github-repository-example&template_owner=spencer879
+1. Fork this repository: https://github.com/new?template_name=nodejs-typescript-example&template_owner=spencer879
   
 2. Update the email in `CODE_OF_CONDUCT.md`
 
@@ -20,7 +20,7 @@
     ```
 
 
-# Project Title
+# Node.js TypeScript Boilerplate
 
 [Include a brief description or overview of your project. Highlight its purpose and key features.]
 
@@ -38,12 +38,12 @@
 ### Prerequisites
 
 1. Git
-1. Node: any 16.x version starting with v16.0.0 or greater
+1. Node: any 18.x version starting with v16.0.0 or greater
 1. Yarn: See [Yarn website for installation instructions](https://yarnpkg.com/lang/en/docs/install/)
 
 ### Installation
 
-1. `cd sample-repo` to go into the project root
+1. `cd nodejs-typescript-example` to go into the project root
 3. `yarn` to install the website's npm dependencies
 
 ### Running locally
